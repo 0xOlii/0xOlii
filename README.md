@@ -1,11 +1,11 @@
 ### Hi there 👋
-## I'm Aleksandr Oleinik 😘😮🧑🏻‍💻
+## I'm Aleksandr Oleinik 🧑🏻‍💻
 
 - 🔭 I’m currently working at Cargo.LT
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me: [aleksandr.oleinik@yahoo.com](mailto:aleksandr.oleinik@yahoo.com)
 
-## My stack
+## My stack 💻
 
 - JavaScript/TypeScript
 - SCSS/Tailwind
