@@ -1,8 +1,7 @@
 ### Hi there 👋
-## I'm Aleksandr Oleinik 🧑🏻‍💻
+## I'm Oleksandr Oliinyk 🧑🏻‍💻
 
-- 🔭 I’m currently working at Cargo.LT
-- 🌱 I’m currently learning Flutter
+- 🔭 I’m currently working at Eurospektras
 - 📫 How to reach me: [aleksandr.oleinik@yahoo.com](mailto:aleksandr.oleinik@yahoo.com)
 
 ## My stack 💻
@@ -10,9 +9,7 @@
 - JavaScript/TypeScript
 - SCSS/Tailwind
 - Vue/Nuxt
-- Webpack
-- Flutter
+- Vite/Webpack
 - Web Extensions
-- ElementUI
-- Node/Express
-- MongoDB
+- Node/Express/Nest
+- MongoDB/Postgresql
